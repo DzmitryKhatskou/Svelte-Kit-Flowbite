@@ -9,7 +9,7 @@
 	} from 'flowbite-svelte';
 </script>
 
-<Footer class="fixed bottom-0 border-t border-slate-600  w-full" footerType="socialmedia">
+<Footer class="sm:fixed sm:bottom-0 border-t border-slate-600  w-full" footerType="socialmedia">
 	<div class="container mx-auto">
 		<div class="md:flex md:justify-between">
 			<div class="mb-6 md:mb-0">
