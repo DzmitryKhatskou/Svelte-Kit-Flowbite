@@ -7,7 +7,7 @@
 
 <Navbar />
 <DarkMode />
-<main class="container mx-auto">
+<main class=" container flex-auto mx-auto">
 	<slot />
 </main>
 <Footer />
