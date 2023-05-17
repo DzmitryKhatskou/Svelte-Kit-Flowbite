@@ -8,7 +8,7 @@
 <Navbar />
 <DarkMode />
 <main
-	class=" max-w-[90%] px-10
+	class="flex flex-col mt-[60px] md:mt-[72px] justify-center items-center max-w-[90%] px-10
   mx-auto"
 >
 	<slot />

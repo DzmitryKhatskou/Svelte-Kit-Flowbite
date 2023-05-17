@@ -10,9 +10,21 @@
 		Chevron,
 		DropdownDivider
 	} from 'flowbite-svelte';
+	import { onMount } from 'svelte';
+
+	let currentPath = '';
+
+	// используйте onMount для обновления переменной currentPath при загрузке компонента
+	onMount(() => {
+		currentPath = window.location.pathname;
+	});
+
+	function handleClick(event) {
+		currentPath = event.target.pathname;
+	}
 </script>
 
-<Navbar let:hidden let:toggle>
+<Navbar class="fixed top-0 w-full z-10" let:hidden let:toggle>
 	<NavBrand href="/">
 		<img
 			src="https://flowbite.com/docs/images/logo.svg"
@@ -25,12 +37,12 @@
 	</NavBrand>
 	<NavHamburger on:click={toggle} />
 	<NavUl {hidden}>
-		<NavLi href="/" active={true}>HOME</NavLi>
-		<NavLi href="/about">About</NavLi>
+		<NavLi href="/" active={currentPath === '/'} on:click={handleClick}>HOME</NavLi>
+		<NavLi href="/about" active={currentPath === '/about'} on:click={handleClick}>About</NavLi>
 		<NavLi id="nav-menu1" class="cursor-pointer"><Chevron aligned>Services</Chevron></NavLi>
-
-		<NavLi href="/prices">Prices</NavLi>
-		<NavLi href="/contact">Contact</NavLi>
+		<NavLi href="/prices" active={currentPath === '/prices'} on:click={handleClick}>Prices</NavLi>
+		<NavLi href="/contact" active={currentPath === '/contact'} on:click={handleClick}>Contact</NavLi
+		>
 		<Dropdown triggeredBy="#nav-menu1" class="w-44 z-20">
 			<DropdownItem href="/services/sites">Sites</DropdownItem>
 			<DropdownItem href="/services/editing">Editing</DropdownItem>
