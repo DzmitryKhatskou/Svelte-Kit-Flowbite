@@ -7,7 +7,10 @@
 
 <Navbar />
 <DarkMode />
-<main class=" container flex-auto mx-auto">
+<main
+	class=" max-w-[90%] px-10
+  mx-auto"
+>
 	<slot />
 </main>
 <Footer />

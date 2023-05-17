@@ -56,6 +56,6 @@
 		background-color: theme(colors.gray.100);
 	}
 	:global(body) {
-		@apply flex flex-col min-h-screen;
+		@apply min-h-screen;
 	}
 </style>
