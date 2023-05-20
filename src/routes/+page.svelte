@@ -5,7 +5,7 @@
 <Heading />
 <div class=" py-24 sm:py-32">
 	<div class="mx-auto max-w-7xl px-6 lg:px-8">
-		<h2 class="text-center text-lg font-semibold leading-8 text-white">
+		<h2 class="text-center text-lg invert dark:invert-0 font-semibold leading-8 text-white">
 			Trusted by the world’s most innovative teams
 		</h2>
 		<div
@@ -13,35 +13,35 @@
 		>
 			<img
 				fill="white"
-				class="col-span-2 max-h-12 w-full object-contain lg:col-span-1"
+				class="col-span-2 opacity-75 invert dark:invert-0 max-h-12 w-full object-contain lg:col-span-1"
 				src="https://tailwindui.com/img/logos/158x48/transistor-logo-white.svg"
 				alt="Transistor"
 				width="158"
 				height="48"
 			/>
 			<img
-				class="col-span-2 max-h-12 w-full object-contain lg:col-span-1"
+				class="col-span-2 opacity-75 max-h-12 invert dark:invert-0 w-full object-contain lg:col-span-1"
 				src="https://tailwindui.com/img/logos/158x48/reform-logo-white.svg"
 				alt="Reform"
 				width="158"
 				height="48"
 			/>
 			<img
-				class="col-span-2 max-h-12 w-full object-contain lg:col-span-1"
+				class="col-span-2 opacity-75 invert dark:invert-0 max-h-12 w-full object-contain lg:col-span-1"
 				src="https://tailwindui.com/img/logos/158x48/tuple-logo-white.svg"
 				alt="Tuple"
 				width="158"
 				height="48"
 			/>
 			<img
-				class="col-span-2 max-h-12 w-full object-contain sm:col-start-2 lg:col-span-1"
+				class="col-span-2 opacity-75 invert dark:invert-0 max-h-12 w-full object-contain sm:col-start-2 lg:col-span-1"
 				src="https://tailwindui.com/img/logos/158x48/savvycal-logo-white.svg"
 				alt="SavvyCal"
 				width="158"
 				height="48"
 			/>
 			<img
-				class="col-span-2 col-start-2 max-h-12 w-full object-contain sm:col-start-auto lg:col-span-1"
+				class="col-span-2 opacity-75 col-start-2 invert dark:invert-0 max-h-12 w-full object-contain sm:col-start-auto lg:col-span-1"
 				src="https://tailwindui.com/img/logos/158x48/statamic-logo-white.svg"
 				alt="Statamic"
 				width="158"
