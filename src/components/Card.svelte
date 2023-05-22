@@ -5,7 +5,7 @@
 </script>
 
 <div
-	class="hover:-translate-y-2 shadow-2xl hover:scale-105 ease-in-out duration-600 transition-all rounded-lg overflow-hidden"
+	class="hover:-translate-y-2 duration-500 shadow-2xl hover:scale-105 ease-in-out transition-all rounded-lg overflow-hidden"
 >
 	<img class="w-full h-40 object-cover" src={imageUrl} alt="Course" />
 	<div class="p-4">
