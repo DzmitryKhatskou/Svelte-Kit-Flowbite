@@ -57,7 +57,4 @@
 	:global(html) {
 		background-color: theme(colors.gray.100);
 	}
-	:global(body) {
-		@apply min-h-screen;
-	}
 </style>
