@@ -1,4 +1,4 @@
-<section class="text-gray-400 w-[100vw] invert dark:invert-0 body-font">
+<section class="text-gray-400 invert dark:invert-0 body-font">
 	<div class="container px-5 py-24 mx-auto">
 		<h1 class="text-3xl font-medium title-font text-white mb-12 text-center">Testimonials</h1>
 		<div class="flex flex-wrap -m-4">

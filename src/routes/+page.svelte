@@ -57,4 +57,7 @@
 	:global(html) {
 		background-color: theme(colors.gray.100);
 	}
+	:global(body) {
+		min-height: 100vh;
+	}
 </style>
