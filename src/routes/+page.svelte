@@ -54,10 +54,8 @@
 <Testimonial />
 
 <style lang="postcss">
-	:global(html) {
+	:global(html, body) {
 		background-color: theme(colors.gray.100);
-	}
-	:global(body) {
-		min-height: fu;
+		min-height: 100vh;
 	}
 </style>
