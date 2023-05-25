@@ -58,6 +58,6 @@
 		background-color: theme(colors.gray.100);
 	}
 	:global(body) {
-		min-height: 100vh;
+		min-height: fu;
 	}
 </style>
