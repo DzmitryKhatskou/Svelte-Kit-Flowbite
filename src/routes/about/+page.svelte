@@ -1,5 +1,6 @@
 <script>
 	import { Timeline, TimelineItem } from 'flowbite-svelte';
+	import Team from '../../components/Team.svelte';
 </script>
 
 <div class="max-w-[780px] mx-auto">
@@ -78,3 +79,5 @@
 		</TimelineItem>
 	</Timeline>
 </div>
+
+<Team />

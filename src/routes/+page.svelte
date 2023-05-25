@@ -6,9 +6,7 @@
 <Heading />
 <div class=" py-24 sm:py-32">
 	<div class="mx-auto max-w-7xl px-6 lg:px-8">
-		<h2
-			class="text-center text-lg text-gray-500 invert dark:invert-0 font-semibold leading-8 text-white"
-		>
+		<h2 class="text-center text-lg invert dark:invert-0 font-semibold leading-8 text-white">
 			Trusted by the world’s most innovative teams
 		</h2>
 		<div
