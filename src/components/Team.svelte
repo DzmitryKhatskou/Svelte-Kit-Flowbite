@@ -24,7 +24,7 @@
 							DIY tote bag drinking vinegar cronut adaptogen squid fanny pack vaporware.
 						</p>
 						<span class="inline-flex">
-							<a class="text-gray-500">
+							<a href="#" class="text-gray-500">
 								<svg
 									fill="none"
 									stroke="currentColor"
@@ -37,7 +37,7 @@
 									<path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z" />
 								</svg>
 							</a>
-							<a class="ml-2 text-gray-500">
+							<a href="#" class="ml-2 text-gray-500">
 								<svg
 									fill="none"
 									stroke="currentColor"
@@ -52,7 +52,7 @@
 									/>
 								</svg>
 							</a>
-							<a class="ml-2 text-gray-500">
+							<a href="#" class="ml-2 text-gray-500">
 								<svg
 									fill="none"
 									stroke="currentColor"
@@ -87,7 +87,7 @@
 							DIY tote bag drinking vinegar cronut adaptogen squid fanny pack vaporware.
 						</p>
 						<span class="inline-flex">
-							<a class="text-gray-500">
+							<a href="#" class="text-gray-500">
 								<svg
 									fill="none"
 									stroke="currentColor"
@@ -100,7 +100,7 @@
 									<path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z" />
 								</svg>
 							</a>
-							<a class="ml-2 text-gray-500">
+							<a href="#" class="ml-2 text-gray-500">
 								<svg
 									fill="none"
 									stroke="currentColor"
@@ -115,7 +115,7 @@
 									/>
 								</svg>
 							</a>
-							<a class="ml-2 text-gray-500">
+							<a href="#" class="ml-2 text-gray-500">
 								<svg
 									fill="none"
 									stroke="currentColor"
@@ -150,7 +150,7 @@
 							DIY tote bag drinking vinegar cronut adaptogen squid fanny pack vaporware.
 						</p>
 						<span class="inline-flex">
-							<a class="text-gray-500">
+							<a href="#" class="text-gray-500">
 								<svg
 									fill="none"
 									stroke="currentColor"
@@ -163,7 +163,7 @@
 									<path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z" />
 								</svg>
 							</a>
-							<a class="ml-2 text-gray-500">
+							<a href="#" class="ml-2 text-gray-500">
 								<svg
 									fill="none"
 									stroke="currentColor"
@@ -178,7 +178,7 @@
 									/>
 								</svg>
 							</a>
-							<a class="ml-2 text-gray-500">
+							<a href="#" class="ml-2 text-gray-500">
 								<svg
 									fill="none"
 									stroke="currentColor"
@@ -213,7 +213,7 @@
 							DIY tote bag drinking vinegar cronut adaptogen squid fanny pack vaporware.
 						</p>
 						<span class="inline-flex">
-							<a class="text-gray-500">
+							<a href="#" class="text-gray-500">
 								<svg
 									fill="none"
 									stroke="currentColor"
@@ -226,7 +226,7 @@
 									<path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z" />
 								</svg>
 							</a>
-							<a class="ml-2 text-gray-500">
+							<a href="#" class="ml-2 text-gray-500">
 								<svg
 									fill="none"
 									stroke="currentColor"
@@ -241,7 +241,7 @@
 									/>
 								</svg>
 							</a>
-							<a class="ml-2 text-gray-500">
+							<a href="#" class="ml-2 text-gray-500">
 								<svg
 									fill="none"
 									stroke="currentColor"
